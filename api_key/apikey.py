@@ -1,0 +1,1 @@
+kunci_api = '5569033372:AAFoIqF7K606cOA6AtlMmC0NVtWqbVRiy74'
