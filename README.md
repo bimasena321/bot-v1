@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm bima sena w.p</h1>
+<h1 align="center">Hai 👋, aku bima sena w.p</h1>
 <h3 align="center">hai aku programer dari indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bimasena321&label=Profile%20views&color=0e75b6&style=flat" alt="bimasena321" /> </p>
@@ -32,5 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bimasena321&show_icons=true&locale=en" alt="bimasena321" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bimasena321&" alt="bimasena321" /></p>
-
 
