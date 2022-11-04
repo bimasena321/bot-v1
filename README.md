@@ -5,6 +5,12 @@
 <br>
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/bimasena321/bot-v1?label=dilihat&style=social">
 <p align="left"> <a href="https://twitter.com/whoareyou" target="blank"><img src="https://img.shields.io/twitter/follow/whoareyou?logo=twitter&style=for-the-badge" alt="whoareyou" /></a> </p>
+<h3 align="left">fitur:
+<br>
+- respon
+<br>  
+- api_key
+</h3
 <br>
 <br>
 <h3 align="left">Terhubung dengan ku:</h3>
