@@ -23,9 +23,9 @@
 <br>
 <h3 align="left">Fitur:
 <br>
-- respon
+- Respon
 <br>  
-- api_key
+- Api_key
 </h3>
 <br>
 
