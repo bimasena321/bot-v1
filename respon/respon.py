@@ -1,6 +1,6 @@
 import datetime as date
 import time
-import url 
+from module.url import url 
 def respon_sample(input):
     u_pesan = str(input).lower()
     
