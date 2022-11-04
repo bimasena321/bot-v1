@@ -1,3 +1,4 @@
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/downloads/bimasena321/bot-v1/bot-v1_v0.0.1-beta/total">
 <img src="https://media.wired.com/photos/5b6df22751297c21002b4536/125:94/w_2375,h_1786,c_limit/HackerBot.jpg">
 <br>
 <h1 align="center">bot-v1</h1>
