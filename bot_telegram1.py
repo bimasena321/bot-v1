@@ -1,8 +1,9 @@
-import apikey as key
-import respon as R
+from api_key.apikey import apikey as key
+from respon.respon import respon as R
 import os as a
 #from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, ContextTypes, CallbackQueryHandler, ChosenInlineResultHandler, InlineQueryHandler
 from telegram.ext import *
+
 
 a.system('clear')
 print("bot dinyalakan....")
