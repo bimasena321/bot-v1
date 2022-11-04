@@ -14,11 +14,11 @@
 <a href="https://www.youtube.com/c/bima020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bima020" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bimasopan13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bimasopan13" height="30" width="40" /></a>
 </p>
-<h3 align-"left">module:
+<h3 align-"left">Module:
 <br>
-- telebot
+- Telebot
 <br>
-- python-telegram-bot
+- Python-telegram-bot
 </h3>
 <br>
 <h3 align="left">Fitur:
