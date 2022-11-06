@@ -14,21 +14,15 @@
 <a href="https://www.youtube.com/c/bima020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bima020" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bimasopan13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bimasopan13" height="30" width="40" /></a>
 </p>
-<h3 align-"left">Module:
-<br>
-- Telebot
-<br>
-- Python-telegram-bot
-</h3>
-<br>
-<h3 align="left">Fitur:
-<br>
-- Respon
-<br>  
-- Api_key
-</h3>
-<br>
 
+**module:**
+ * Telebot                  https://pypi.org/project/telebot/
+ * Python-telegram-bot      https://pypi.org/project/python-telegram-bot/
+ 
+**Fitur:**
+ * api_key
+ * respon
+ 
 **Persyaratan untuk pengguna (Linux):**
 ```bash
 $ pip3 install python-telegram-bot
@@ -42,10 +36,12 @@ $ pip install python-telegram-bot
 $ git clone https://github.com/bimasena321/bot-v1
 $ cd bot-v1
 ```
+
 **Penggunaan (Linux):**
 ```bash
 $ python3 bot_telegram1.py
 ```
+
 **Penggunaan (Windows && Mac os):**
 ```bash
 $ python bot_telegram1.py
